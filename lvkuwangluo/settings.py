@@ -25,7 +25,10 @@ SECRET_KEY = 'er($#%m99es^$8$gzw3*w=mr$$1p8yth@*@c%q^uh5gza8h-uu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'lvkuwangluo.com',
+    'lukuwangluo.com',
+]
 
 
 # Application definition
