@@ -27,7 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     'lvkuwangluo.com',
+    'www.lvkuwangluo.com',
     'lukuwangluo.com',
+    'www.lukuwangluo.com',
 ]
 
 
